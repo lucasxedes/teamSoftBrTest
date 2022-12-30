@@ -50,12 +50,11 @@ The api can now be accessed at
     GET:    http://localhost/api/client/1 ID Client
     PUT:    http://localhost/api/client/1 UPDATE Client
     DELETE: http://localhost/api/client/1 DELETE Client
-{
+
 	"CNPJ":"12345678910",
 	"corporate_name":"Empresa",
 	"contact_name":"Pessoa",
 	"telephone":"19000009999",
-	
 	"public_place":"Rua teste",
 	"number":"10",
 	"complement":"teste",
@@ -63,7 +62,7 @@ The api can now be accessed at
 	"city":"Cidade",
 	"state":"Estado",
 	"zip_code":"13064000"
-}
+
 
 
 
